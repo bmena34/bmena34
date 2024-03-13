@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 🛠️ Some of what I'm currently working with 
+## 🛠️ Some of what I'm currently working with
 
 - AWS
 - Kubernetes
@@ -9,11 +9,11 @@
 
 ## 🌱 Some of what I'm currently learning
 
-- CKA Certification 
+- CKA Certification
 - Observability
 - Kubernetes Operators
 
 ## 📫 How to reach me
 
 - Email: brandon@featherflinger.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brandon-mena/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/brandon-mena/)
