@@ -15,5 +15,5 @@
 
 ## 📫 How to reach me
 
-- Email: brandon@featherflinger.com
+- Email: brandon.mena@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/brandon-mena/)
